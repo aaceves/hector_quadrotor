@@ -1,10 +1,8 @@
 # hector_quadrotor for Melodic
 
-Hector-Quadrotor is a series of packages for modeling and control quadrotors drones in ROS and GAZEBO. It was originally developed by the Institute for Flight Systems and Automatic Control at the Technical University of Darmstadt in Germany. The most recent version of hector-quadrotor was released in 2018 for ROS Kinetic [1] with no further update. Thanks to others contributors, it can also be installed for ROS Melodic [2] and ROS Neotic [3].
+Hector-Quadrotor is a series of packages for modeling and control quadrotors drones in ROS and GAZEBO. It was originally developed by the Institute for Flight Systems and Automatic Control at the Technical University of Darmstadt in Germany. The most recent version was released in 2018 for ROS Kinetic [1] with no further update. Thanks to others contributors, it can also be installed for ROS Melodic [2] and ROS Neotic [3].
 
-Here is the process to install hector-quadrotor for Ubuntu 18.04 and ROS Melodic.
-
-It has beed added the takeoff_land node from The Construct's repo [4].
+Here is the process to install hector-quadrotor for Ubuntu 18.04 and ROS Melodic. It has beed added the takeoff_land node from The Construct's repo [4].
 
 ## Requirments
 
