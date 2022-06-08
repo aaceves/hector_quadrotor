@@ -16,13 +16,5 @@ The stack consists of a core library without dependencies to ROS beside message 
     catkin_make --source hector_localization
     roslaunch hector_pose_estimation hector_pose_estimation.launch 
 
-#rosbag for test
-1. download the rosbag
-
-    https://drive.google.com/folderview?id=0B4hFvojO5r3scWJRVWdhSmdLd0k&usp=sharing
-    
-2. replay the rosbag
-
-    rosbag play 2016-03-09-22-11-07.bag
     
 ![hector_pose_estimation](https://cloud.githubusercontent.com/assets/3192355/14065311/5b968b2c-f457-11e5-862a-2f42720035b8.png)
