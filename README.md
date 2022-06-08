@@ -4,6 +4,8 @@ Hector-Quadrotor is a series of packages for ROS and GAZEBO developed by the Ins
 
 Here is the process to install hector-quadrotor for Ubuntu 18.04 and ROS Melodic.
 
+It has beed added the takeoff_land node from The Construct's repo [4].
+
 ## Requirments
 
 Run these commands in a Terminal, one by one:
@@ -46,6 +48,7 @@ roslaunch hector_quadrotor_gazebo quadrotor_empty_world.launch
 
 ## References
 
-1. Technische Universität Darmstadt, "hector_quadrotor", Germnay, Jun 2018, Kinetic: https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor 
+1. Technische Universität Darmstadt, "hector_quadrotor for Kinetic", Germnay, Jun 2018, https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor 
 2. Basavaraj Navalgund, "Hector-quadrot for ROS Melodic", India, Sep 2002, https://github.com/basavarajnavalgund/hector-quadrotor 
-3. RAFALAMAO, "hector_quadrotor ported to ROS Noetic & Gazebo 11", Mexico Feb 2022, Neotic: https://github.com/RAFALAMAO/hector_quadrotor_noetic 
+3. RAFALAMAO, "hector_quadrotor ported to ROS Noetic & Gazebo 11", Mexico Feb 2022, https://github.com/RAFALAMAO/hector_quadrotor_noetic 
+4. The Construct Core, "hector quadrorotr", Dic 2017, https://bitbucket.org/theconstructcore/hector_quadrotor_sim/src/master/
