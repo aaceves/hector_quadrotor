@@ -1,6 +1,6 @@
 # hector_quadrotor
 
-Hector-Quadrotor is a series of packages developed by the Institute for Flight Systems and Automatic Control at the Technical University of Darmstadt in Germany for ROS and GAZEBO. The most recent version of Hector-Quadrotor was released in 2018 for ROS Kinetic [1], but thanks to various contributors, it can also be installed for ROS Melodic [2] and ROS Neotic [3].
+Hector-Quadrotor is a series of packages developed by the Institute for Flight Systems and Automatic Control at the Technical University of Darmstadt in Germany for ROS and GAZEBO. The most recent version of hector-quadrotor was released in 2018 for ROS Kinetic [1], but thanks to various contributors, it can also be installed for ROS Melodic [2] and ROS Neotic [3].
 
 
 ## Requirments
@@ -16,7 +16,7 @@ sudo apt-get install ros-melodic-teleop-twist-keyboard
 
 ## Instalation
 
-The process to install Hector-quadrotor is the following;
+The process to install hector-quadrotor is the following;
 ```
 mkdir ~/hector_ws
 cd ~/hector_ws
@@ -37,7 +37,7 @@ source devel/setup.bash
 
 ## Run a first demo
 
-You can run some demos by executing the launch files in hector_quadrotor_gazego and hector_quadrotor_demo packages.
+You can run some demos by executing the launch files in ```hector_quadrotor_gazego``` and ```hector_quadrotor_demo``` packages.
 In one terminal, try:
 ```
 roslaunch hector_quadrotor_gazebo quadrotor_empty_world.launch
