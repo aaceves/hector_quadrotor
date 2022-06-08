@@ -47,7 +47,11 @@ In another terminal try:
 ```
 rosservice call /enable_motors "enable: true"
 rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+```
 
+If ```teleop_twist_keyboard ``` is not correctly installed, then you can run:
+```
+git clone https://github.com/ros-teleop/teleop_twist_keyboard
 ```
 
 
