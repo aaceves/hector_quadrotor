@@ -1,4 +1,4 @@
-# hector_quadrotor
+# hector_quadrotor for Melodic
 
 Hector-Quadrotor is a series of packages developed by the Institute for Flight Systems and Automatic Control at the Technical University of Darmstadt in Germany for ROS and GAZEBO. The most recent version of hector-quadrotor was released in 2018 for ROS Kinetic [1], but thanks to various contributors, it can also be installed for ROS Melodic [2] and ROS Neotic [3].
 
