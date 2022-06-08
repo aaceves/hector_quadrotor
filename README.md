@@ -47,6 +47,6 @@ roslaunch hector_quadrotor_gazebo quadrotor_empty_world.launch
 ## References
 
 1. Technische Universität Darmstadt, "hector_quadrotor for Kinetic", Germnay, Jun 2018, https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor 
-2. Basavaraj Navalgund, "Hector-quadrot for ROS Melodic", India, Sep 2002, https://github.com/basavarajnavalgund/hector-quadrotor 
+2. Basavaraj Navalgund, "Hector-quadrot for ROS Melodic", India, Sep 2020, https://github.com/basavarajnavalgund/hector-quadrotor 
 3. RAFALAMAO, "hector_quadrotor ported to ROS Noetic & Gazebo 11", Mexico Feb 2022, https://github.com/RAFALAMAO/hector_quadrotor_noetic 
 4. The Construct Core, "hector quadrotor sim", Dic 2017, https://bitbucket.org/theconstructcore/hector_quadrotor_sim/src/master/
