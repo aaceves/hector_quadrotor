@@ -43,6 +43,13 @@ In one terminal, try:
 ```
 roslaunch hector_quadrotor_gazebo quadrotor_empty_world.launch
 ```
+In another terminal try:
+```
+rosservice call /enable_motors "enable: true"
+rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+
+```
+
 
 ## References
 
