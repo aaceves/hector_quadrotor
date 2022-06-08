@@ -1,6 +1,7 @@
 # hector_quadrotor
 
-It is a set of packages for modeling, control and simulation of quadrotor UAV systems.
+Hector-Quadrotor is a series of packages developed by the Institute for Flight Systems and Automatic Control at the Technical University of Darmstadt in Germany for ROS and GAZEBO. The most recent version of Hector-Quadrotor was released in 2018 for ROS Kinetic [1], but thanks to various contributors, it can also be installed for ROS Melodic [2] and ROS Neotic [3].
+
 
 ## Description
 
@@ -46,6 +47,6 @@ roslaunch hector_quadrotor_gazebo quadrotor_empty_world.launch
 
 ## References
 
-1. Kinetic: https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor 
-2. Melodic: https://github.com/basavarajnavalgund/hector-quadrotor 
-3. Neotic: https://github.com/RAFALAMAO/hector_quadrotor_noetic 
+1. Technische Universität Darmstadt, "hector_quadrotor", Germnay, Jun 2018, Kinetic: https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor 
+2. Basavaraj Navalgund, "Hector-quadrot for ROS Melodic", India, Sep 2002, https://github.com/basavarajnavalgund/hector-quadrotor 
+3. RAFALAMAO, "hector_quadrotor ported to ROS Noetic & Gazebo 11", Mexico Feb 2022, Neotic: https://github.com/RAFALAMAO/hector_quadrotor_noetic 
