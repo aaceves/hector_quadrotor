@@ -27,7 +27,7 @@ mv hector_quadrotor src
 You will need to install some missing dependencies:
 ```
 sudo apt update
-rosdep install --from-paths src --ignore-src –r 
+rosdep install --from-paths src --ignore-src -r 
 ```
 Finally, compile and declare the new packages:
 ```
